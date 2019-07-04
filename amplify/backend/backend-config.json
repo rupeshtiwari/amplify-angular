@@ -1,0 +1,8 @@
+{
+	"auth": {
+		"angularamplifyf96b76fd": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

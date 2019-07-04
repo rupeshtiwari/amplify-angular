@@ -1,0 +1,19 @@
+{
+    "javascript": {
+        "awscloudformation": {
+            "AuthRoleName": "angular-amplify-javascript-20190704084432-authRole",
+            "UnauthRoleArn": "arn:aws:iam::928360579543:role/angular-amplify-javascript-20190704084432-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::928360579543:role/angular-amplify-javascript-20190704084432-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "angular-amplify-javascript-20190704084432-deployment",
+            "UnauthRoleName": "angular-amplify-javascript-20190704084432-unauthRole",
+            "StackName": "angular-amplify-javascript-20190704084432",
+            "StackId": "arn:aws:cloudformation:us-east-1:928360579543:stack/angular-amplify-javascript-20190704084432/78d1e3d0-9e59-11e9-b909-0a3569efe79e"
+        },
+        "categories": {
+            "auth": {
+                "angularamplifyf96b76fd": {}
+            }
+        }
+    }
+}
